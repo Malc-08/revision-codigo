@@ -1,10 +1,16 @@
 /* normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
-button,hr,input {
-  overflow:visible
+/* Separé todas las etiquetas y agregué los ";" de cierre */
+
+button,
+hr,
+input {
+  overflow:visible;
 }
 
-progress,sub,sup {
+progress,
+sub,
+sup {
   vertical-align:baseline
 }
 
